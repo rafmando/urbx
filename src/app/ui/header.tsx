@@ -10,11 +10,11 @@ export default function Header() {
       <br />
       <Navbar bg="light" data-bs-theme="light">
         <Container>
-          <NavbarBrand href="#home">URBANX</NavbarBrand>
+          <NavbarBrand href="/" style={{fontWeight: '900',fontStyle:'italic' }}>
+            URBANX
+          </NavbarBrand>
           <Nav className="me-auto">
-            <NavLink href="#home">Home</NavLink>
-            <NavLink href="#features">Features</NavLink>
-            <NavLink href="#pricing">Pricing</NavLink>
+            <NavLink href="/products">Products</NavLink>
           </Nav>
         </Container>
       </Navbar>
