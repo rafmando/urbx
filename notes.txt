@@ -1,0 +1,6 @@
+Add product screen 
+
+Add prettier to format document
+Add splash screen
+Add Type definitions
+Add loading 
