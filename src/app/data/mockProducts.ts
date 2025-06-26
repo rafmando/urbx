@@ -1,0 +1,26 @@
+export const mockProducts = [
+  {
+    _id: "1",
+    name: "Santa Cruz Japanese Dot",
+    image: "/images/santa-cruz-japanese-dit.png",
+    description: "So and so...",
+    brand: "Santa Cruz",
+    category: "T-shirts",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    _id: "2",
+    name: "Santa Cruz Japanese Dot",
+    image: "/images/santa-cruz-japanese-dit.png",
+    description: "So and so...",
+    brand: "Santa Cruz",
+    category: "T-shirts",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+];
