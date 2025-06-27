@@ -1,10 +1,10 @@
-import React from "react";
-import { Row, Col } from "react-bootstrap";
-import { mockProducts } from "../data/mockProducts";
+import React from 'react'
+import { Row, Col } from 'react-bootstrap'
+import { mockProducts } from '../data/mockProducts'
 import Product from './product'
 export default function Products() {
   return (
-    <div style={{textTransform:'uppercase', fontWeight:'300'}}>
+    <div style={{ textTransform: 'uppercase', fontWeight: '300' }}>
       <p>Products</p>
       <Row>
         {mockProducts.map((product: any) => (
@@ -12,5 +12,5 @@ export default function Products() {
         ))}
       </Row>
     </div>
-  );
+  )
 }

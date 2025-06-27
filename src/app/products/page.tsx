@@ -4,7 +4,7 @@ import Products from '../ui/products'
 export default function Page() {
   return (
     <div>
-      <Products/>
+      <Products />
     </div>
   )
 }
