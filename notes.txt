@@ -1,6 +1,6 @@
-Add product screen 
+Add product screen -----> DONE
 
-Add prettier to format document
-Add splash screen
+Add prettier to format document -----> DONE
+Add splash screen -----> DONE
 Add Type definitions
 Add loading 
